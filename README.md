@@ -6,4 +6,6 @@ A game playing bot for various games.
 Players
 -------
 
-- tictactoe, minmax
+Bot           | Algorithm | Where has this bot been used
+--------------|-----------|-----------------------------
+tictactoe     | minmax    |
